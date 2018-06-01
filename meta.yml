@@ -3,7 +3,9 @@ name: Práctica Repetición Simple Kids
 locale: es
 type: practice
 beta: false
-teacher_info: 
+teacher_info: ''
 language: gobstones
 id_format: "%05d"
-order: []
+order:
+- 1
+- 2
