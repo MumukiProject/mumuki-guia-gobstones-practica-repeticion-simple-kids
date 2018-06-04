@@ -1,3 +1,7 @@
+<gs-attire
+  attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/config.json">
+</gs-attire>
+
 Ahora sí, estamos listos para recolectar todas las flores que hayan. Va a ser muy útil `repetir`, pero no debemos olvidarnos del _caso borde_. Podemos repetir la secuencia de recolectar y volar hacia la siguiente parcela, salvo en la última. 
 
 Así que deberemos analizar qué acciones repetir, y contar bien cuántas veces hacerlo. :wink: 
