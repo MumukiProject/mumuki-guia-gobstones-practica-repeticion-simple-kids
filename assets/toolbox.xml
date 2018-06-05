@@ -8,6 +8,7 @@
   <block type="ColorSelector"></block>
   <block type="DireccionSelector"></block>
   <block type="math_number"></block>
+  <block type="nroBolitas"></block>
 </category>
 
 <category name="Procedimientos primitivos"> </category>
