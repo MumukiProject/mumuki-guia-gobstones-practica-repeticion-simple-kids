@@ -39,15 +39,15 @@
     },
     {
       "when": { "blue": 1, "black": 0, "red": 0, "green": 5 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_polen-01.png"
     },
     {
       "when": { "blue": 1, "black": 0, "red": 4, "green": 0 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_nectar-01.png"
     },
     {
       "when": { "blue": 1, "black": 0, "red": 4, "green": 5 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_pol_nec-01.png"
     },
     {
       "when": { "blue": 3, "black": 0, "red": 0, "green": 0 },
@@ -55,15 +55,15 @@
     },
     {
       "when": { "blue": 3, "black": 0, "red": 12, "green": 15 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_pol_nec-01.png"
     },
     {
       "when": { "blue": 3, "black": 0, "red": 0, "green": 15 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_polen-01.png" 
     },
     {
       "when": { "blue": 3, "black": 0, "red": 12, "green": 0 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_nectar-01.png"
     },
     {
       "when": { "blue": 4, "black": 0, "red": 0, "green": 0 },
@@ -71,15 +71,15 @@
     },
     {
       "when": { "blue": 4, "black": 0, "red": 16, "green": 20 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_pol_nec-01.png"
     },
     {
       "when": { "blue": 4, "black": 0, "red": 0, "green": 20 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_polen-01.png" 
     },
     {
       "when": { "blue": 4, "black": 0, "red": 16, "green": 0 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_nectar-01.png"
     },
     {
       "when": { "blue": 5, "black": 0, "red": 0, "green": 0 },
@@ -87,15 +87,15 @@
     },
     {
       "when": { "blue": 5, "black": 0, "red": 20, "green": 25 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_pol_nec-01.png"
     },
     {
       "when": { "blue": 5, "black": 0, "red": 0, "green": 25 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_polen-01.png" 
     },
     {
       "when": { "blue": 5, "black": 0, "red": 20, "green": 0 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_nectar-01.png"
     },
     {
       "when": { "blue": 1, "black": 1, "red": 0, "green": 0 },
@@ -103,15 +103,15 @@
     },
     {
       "when": { "blue": 1, "black": 1, "red": 0, "green": 5 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja_polen-01.png"
     },
     {
       "when": { "blue": 1, "black": 1, "red": 4, "green": 0 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja_nectar-01.png"
     },
     {
       "when": { "blue": 1, "black": 1, "red": 4, "green": 5 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja_pol_nec-01.png"
     },
     {
       "when": { "blue": 3, "black": 1, "red": 0, "green": 0 },
@@ -119,15 +119,15 @@
     },
     {
       "when": { "blue": 3, "black": 1, "red": 12, "green": 15 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja_pol_nec-01.png"
     },
     {
       "when": { "blue": 3, "black": 1, "red": 0, "green": 15 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja_polen-01.png"
     },
     {
       "when": { "blue": 3, "black": 1, "red": 12, "green": 0},
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja_nectar-01.png"
     },
     {
       "when": { "blue": 4, "black": 1, "red": 0, "green": 0 },
@@ -135,15 +135,15 @@
     },
     {
       "when": { "blue": 4, "black": 1, "red": 16, "green": 20 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja_pol_nec-01.png"
     },
     {
       "when": { "blue": 4, "black": 1, "red": 0, "green": 20 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja_polen-01.png"
     },
     {
       "when": { "blue": 4, "black": 1, "red": 16, "green": 0 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja_nectar-01.png"
     },
     {
       "when": { "blue": 5, "black": 1, "red": 0, "green": 0 },
@@ -151,15 +151,15 @@
     },
     {
       "when": { "blue": 5, "black": 1, "red": 20, "green": 25 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja_pol_nec-01.png"
     },
     {
       "when": { "blue": 5, "black": 1, "red": 0, "green": 25 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja_polen-01.png"
     },
     {
       "when": { "blue": 5, "black": 1, "red": 20, "green": 0 },
-      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja-01.png"
+      "image": "https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/flor_blanca_abeja_nectar-01.png"
     },
     {
       "when": { "blue": 2, "black": 0, "red": 0, "green": 0 },
