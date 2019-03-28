@@ -9,4 +9,4 @@ Pero la excelente noticia es que existe una expresión en _Gobstones_ que puede 
 
 ¡Mejor veamos cómo se usa! :wink:
 
-> Tratá de entender el programa que te dejamos armado, e imaginá qué es lo que hace. Luego ejecutalo.
+> Tratá de entender el `programa` que te dejamos armado, e imaginá qué es lo que hace. Luego ejecutalo.
