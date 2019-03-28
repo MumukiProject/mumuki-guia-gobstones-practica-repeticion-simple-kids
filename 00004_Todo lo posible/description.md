@@ -1,9 +1,7 @@
 <gs-attire
   attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/config.json">
 </gs-attire>
-<gs-toolbox
-  toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/toolbox.xml">
-</gs-toolbox>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/toolbox_1553782441764.xml"></gs-toolbox>
 
 ¡Ahora sí, lo que te prometimos! :smiley: Hasta ahora recolectamos el polen y néctar de una sola flor por parcela; pero en este tiempo crecieron más flores que pasamos de largo. El problema es que no sabemos exactamente cuántas flores habrán en cada parcela. :bow:
 
