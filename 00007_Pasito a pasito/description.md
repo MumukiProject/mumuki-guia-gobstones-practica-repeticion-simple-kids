@@ -1,9 +1,7 @@
 <gs-attire
   attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/attires/config.json">
 </gs-attire>
-<gs-toolbox
-  toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/toolbox.xml">
-</gs-toolbox>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-repeticion-simple-kids/master/assets/toolbox_1553782441764.xml"></gs-toolbox>
 
 ¡Todo va muy bien! Pero ya sabemos que con la programación resolvemos graaandes problemas, partiéndolo en pequeñas soluciones. O sea que, lo que hicimos hasta acá, nos servirá para hacer ahora algo más complejo. Como siempre, ¡con paciencia y pasito a pasito! :relieved: 
 
