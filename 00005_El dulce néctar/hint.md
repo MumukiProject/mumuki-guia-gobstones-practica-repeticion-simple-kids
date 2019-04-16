@@ -1,1 +1,1 @@
-Recordá que existe la expresión `nroBolitas` que nos dice la cantidad de bolitas que hay del color que le indiquemos. Para ver los diferentes tableros tenés que apretar la flechita negra ► que está al lado del mismo. 
+Recordá que existe la expresión `nroBolitas` que nos dice la cantidad de bolitas que hay del color que le indiquemos. 
