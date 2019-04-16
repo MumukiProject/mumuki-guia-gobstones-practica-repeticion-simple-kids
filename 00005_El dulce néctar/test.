@@ -11,3 +11,12 @@ examples:
      size 2 2
      cell 0 0 Azul 4 Negro 1 
      head 0 0
+ - initial_board: |
+     GBB/1.0
+     size 2 2
+     cell 0 0 Azul 3 Rojo 12 Negro 1 
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 2
+     head 0 0
