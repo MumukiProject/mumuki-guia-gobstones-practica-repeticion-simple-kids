@@ -5,4 +5,4 @@ expectations:
   inspection: UsesRepeat
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: repetir
-  inspection: Uses:númeroDeBolitas
+  inspection: Uses:nroBolitas
