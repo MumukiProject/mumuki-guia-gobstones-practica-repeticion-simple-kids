@@ -3,7 +3,9 @@ name: Campo de flores
 locale: es
 type: practice
 beta: false
-teacher_info: ''
+teacher_info: Las repeticiones simplifican mucho la lectura y la escritura de programas.
+  Les sugerimos visitar los ejercicios del primer capítulo para pensar su solución
+  usando esta nueva herramienta. ¿No hubiera sido ideal contar con ella?
 language: gobstones
 id_format: "%05d"
 order:
